@@ -1,8 +1,8 @@
 - 👋 wassup you'll , I’m amaan khan
-- 👀 I’m interested in flutter
-- 🌱 I’m currently learning how to ...
+- 👀 I’m interested in 
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ak12378m@gmail.com
+
 
 <!---
 lilastronautt/lilastronautt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
