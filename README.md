@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/amaankhan0555" target="blank"><img src="https://img.shields.io/twitter/follow/amaankhan0555?logo=twitter&style=for-the-badge" alt="amaankhan0555" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **front end Devolpment**
+- 💬 Ask me about **Full Stack Devolpment**
 
 - 📫 How to reach me **amaanmitadt@gmail.com**
 
